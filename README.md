@@ -8,4 +8,5 @@ Weekly report storage
 - 2020/05/16 9주차 보고서 업로드, 내일 중으로 PPT 업로드 예정
 - 2020/05/17 9주차 발표 PPT, 중간보고서 업로드
 - 2020/05/27 10주차 보고서 업로드 / 발표 PPT 업로드 
-- 2020/06/04 12주차 보고서, 발표 PPT 업로드 (http://sw.chosun.ac.kr/boardView.do?pageId=www42&boardId=NOTICE&seq=2818121)
+- 2020/06/04 12주차 보고서, 발표 PPT 업로드
+- 2020/06/10 13주차 보고서, 발표 PPT 업로드
